@@ -1,0 +1,29 @@
+#navbar{
+
+    width: 100%;
+    height: 50px;
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+}
+
+#navbar > a{
+    color: white;
+    margin-right: 20px;
+    margin-top: 17px;
+    text-decoration: none;
+}
+
+#navbar > h3{
+    color: white;
+    margin-left: 20px;
+    
+}
+
+form{
+
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+}
+
