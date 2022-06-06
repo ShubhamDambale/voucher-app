@@ -26,3 +26,11 @@ form{
     height: 500px;
     border: 1px solid black;
 }
+
+
+#voucher_list{
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
